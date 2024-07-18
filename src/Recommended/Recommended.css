@@ -1,0 +1,12 @@
+.recommended-flex {
+  display: flex;
+  margin-left: 20rem;
+}
+.recommended-title {
+  font-family: sans-serif;
+
+  margin-left: 20rem;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
